@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">edbox</string>
+    <string name="title_name">Title: </string>
+    <string name="comment">Comment: </string>
+    <string name="total_likes">Total likes: </string>
+    <string name="total_dislikes">Total dislikes: </string>
+</resources>
